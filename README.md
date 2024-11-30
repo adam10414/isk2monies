@@ -11,4 +11,4 @@
 2. numbered
 
 
-(link text)[https://docs.github.com/en/pages/quickstart]
+[link text](https://docs.github.com/en/pages/quickstart)
